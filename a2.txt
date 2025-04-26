@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is in Bike.
+======= Merging Hello
+This is A2.
+>>>>>>> car
